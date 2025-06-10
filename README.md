@@ -10,4 +10,7 @@ git clone https://github.com/gavgrub/seawa
 cd seawa
 ```
 **Running:**
-Any of the individual pdf files should be visible off of your browser by opening them. 
+Any of the individual pdf files should be visible off of your browser by opening them. Alternatively, they can be viewed on a web browser by finding them at the following web address. Be sure to replace <name> with the name of the file you would like to view.
+```bash
+https://gavgrub.github.io/seawa/<name>.pdf
+```
